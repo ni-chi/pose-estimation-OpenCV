@@ -3,3 +3,5 @@ This repository deals with applying the pose estimation to generate npz file for
 
 For more information, move on to the following website :
 https://docs.opencv.org/3.3.0/dc/d2c/tutorial_real_time_pose.html
+
+The file will be generated in the pose folder. It will be named as ```webcam_calibration_ouput.npz```
